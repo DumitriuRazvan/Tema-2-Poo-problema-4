@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1586509950 source:c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema 2 - poo\coada_prioritate.cpp
+	"Coada_prioritate.h"
+
+1586537608 c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema 2 - poo\coada_prioritate.h
+
+1586585733 source:c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema 2 - poo\main.cpp
+	<iostream>
+	<cstring>
+	"Nod.h"
+	"Nod_dublu.h"
+	"Nod_prioritate.h"
+	"Coada_prioritate.h"
+
+1586533248 c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema 2 - poo\nod.h
+
+1586509802 source:c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema 2 - poo\nod_dublu.cpp
+	"Nod_dublu.h"
+
+1586533836 c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema 2 - poo\nod_dublu.h
+
+1586509840 source:c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema 2 - poo\nod_prioritate.cpp
+	"Nod_prioritate.h"
+
+1586534310 c:\users\dumit\onedrive\desktop\informatica semestrul 2\tema 2 - poo\nod_prioritate.h
+
